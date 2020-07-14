@@ -10,11 +10,11 @@ Feel free to contact me if you have a question about any of my projects or just 
 
 <div class="contact" style="display: flex; justify-content: space-evenly;">
     <a href="mailto:jaredbeachdesign@gmail.com" style="color: #BC42F0;">
-        <img src="./mail.svg">
+        <img src="./mail.png">
         e-mail
     </a>
     <a href="https://twitter.com/realjaredbeach" style="color: #BC42F0;">
-        <img src="./twitter.svg">
+        <img src="./twitter.png">
         twitter
     </a>
 </div>
