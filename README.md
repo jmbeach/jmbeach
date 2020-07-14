@@ -8,13 +8,5 @@ Feel free to contact me if you have a question about any of my projects or just 
 
 ## Contact
 
-<div class="contact" style="display: flex; justify-content: space-evenly;">
-    <a href="mailto:jaredbeachdesign@gmail.com" style="color: #BC42F0;">
-        <img src="./mail.png">
-        e-mail
-    </a>
-    <a href="https://twitter.com/realjaredbeach" style="color: #BC42F0;">
-        <img src="./twitter.png">
-        twitter
-    </a>
-</div>
+[<img src="./mail.png">e-mail](mailto:jaredbeachdesign@gmail.com)
+[<img src="./twitter.png">e-mail](https://twitter.com/realjaredbeach)
