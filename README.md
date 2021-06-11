@@ -8,4 +8,4 @@ Feel free to contact me if you have a question about any of my projects or just 
 
 [![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmbeach)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbeach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbeach&hide=html)](https://github.com/anuraghazra/github-readme-stats)
